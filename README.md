@@ -72,8 +72,10 @@ Double= 12.78 and size is 8 bytes
 
 Enter any string: Pal
 String = Pal and size is 32 bytes
+
 Enter any character: h
 Character = h and size is 1 bytes
+
 Enter any boolean: true
 Boolean = 0 and size is 1 bytes
 
