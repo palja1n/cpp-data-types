@@ -59,21 +59,30 @@ Learned how to use cin and cout for taking input and displaying output in C++.
 
 SampleOutput
 Enter any integer:12
+
 Integer = 12 and size is 4 bytes
+
 Enter any number with decimal:12.12
+
 Float= 12.12 and size is 4 bytes
+
 Enter any number with decimal:12.78
+
 Double= 12.78 and size is 8 bytes
-Enter any string:palak
-String = palak and size is 32 bytes
-Enter any character:h
+
+Enter any string: Pal
+String = Pal and size is 32 bytes
+Enter any character: h
 Character = h and size is 1 bytes
-Enter any boolean:true
+Enter any boolean: true
 Boolean = 0 and size is 1 bytes
 
 # Observations
 A bool takes 1 byte, not just 1 bit, due to system memory alignment.
+
 double is more precise than float, but consumes more memory.
+
 string is not a primitive type like int; it handles memory dynamically and is more complex internally.
+
 Understanding data types is fundamental to writing efficient and correct C++ programs. This program helped visualize how much memory different variables take and emphasized the importance of choosing the appropriate type based on data and performance needs.
 
