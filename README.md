@@ -67,22 +67,34 @@ Learned how to use cin and cout for taking input and displaying output in C++.
 SampleOutput
 
 Enter any integer: 13
+
 Integer = 13 and size is 4 bytes
 
+
 Enter any decimal number: 13.46
+
 Float = 13.46 and size is 4 bytes
 
+
 Enter any integer: 134678
+
 Double is 134678 and size is 8 bytes
 
+
 Enter any string: Pal
+
 String is Pal and size is 32 bytes
 
+
 Enter any character: P
+
 Character is P and size is 1 bytes
 
+
 Enter any boolean value: true
+
 Boolean is 0 and size is 1 bytes
+
 
 # Observations
 A bool takes 1 byte, not just 1 bit, due to system memory alignment.
